@@ -13,7 +13,7 @@
 title: Uncle Iroh's Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Kevin Panganiban
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,13 +50,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "kevin_panganiban@myabcusd.org"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+# patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -127,8 +126,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#384E1D"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"

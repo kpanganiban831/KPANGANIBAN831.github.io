@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://o.remove.bg/downloads/cf90d62a-14cf-4c5e-8db4-2d4a96034127/image-removebg-preview.png"
+avatar: "file:///home/chronos/u-11a2ce90039e07ea1716f2ef2cb6fbe2c1b823b4/MyFiles/Downloads/image-removebg-preview.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
